@@ -30,7 +30,7 @@
     "autoload": {
         "psr-0": { "Cekurte\\InsightlyBundle": "" },
         "files": [
-            "vendor/insightly/insightly/insightly.php"
+            "../../../../insightly/insightly/insightly.php"
         ]
     },
     "target-dir": "Cekurte/InsightlyBundle",
