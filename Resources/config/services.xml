@@ -10,7 +10,7 @@
 
     <services>
         <service id="cekurte_insightly" class="%cekurte_insightly.service.class%">
-            <argument>%cekurte_insightly.api_key%</argument>
+            <argument>%cekurte_insightly_api_key%</argument>
         </service>
     </services>
 </container>
